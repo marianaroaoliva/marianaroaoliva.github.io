@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mariana Roa Oliva</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+        		<li><a href="/writing">Writing</a></li>
+			<li><a href="/sound">Sound</a></li>
+			<li><a href="/projects">Projects</a></li>
+			<li><a href="/community">Community</a></li>
+			<li><a href="/contact">Contact</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi, I'm Mariana ('s website!)</h1>
+				<p> <a href="/about">Mariana makes stuff with language and sound. They're interested in 
+					reproductive justice, interspecies communication, and 
+					conversations surrounding class and gender. </a></p>
+				<p> <a href=Originally from Mexico City, they hold an 
+					MFA in Literary Arts from Brown University. </a></p>
+					
+					<p> <a href=Hit them up if you have ideas for collaboration!</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:marianaroaoliva@gmail.com">email</a></li>
+        		<li><a href="https://github.com/marianaroaoliva">github.com/marianaroaoliva</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
